@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Pearman | PassCert Project</title>
+    <link>/author/sarah-pearman/</link>
+      <atom:link href="/author/sarah-pearman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah Pearman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu350f1502138685215ce213cac6f53845_2708_512x512_fill_lanczos_center_2.png</url>
+      <title>Sarah Pearman</title>
+      <link>/author/sarah-pearman/</link>
+    </image>
+    
+    <item>
+      <title>Why people (don’t) use password managers effectively</title>
+      <link>/publication/2019/soups/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019/soups/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

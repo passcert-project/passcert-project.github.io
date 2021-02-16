@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julien Cordry | PassCert Project</title>
+    <link>/author/julien-cordry/</link>
+      <atom:link href="/author/julien-cordry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julien Cordry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu350f1502138685215ce213cac6f53845_2708_512x512_fill_lanczos_center_2.png</url>
+      <title>Julien Cordry</title>
+      <link>/author/julien-cordry/</link>
+    </image>
+    
+    <item>
+      <title>Skeptic: Automatic, Justified and Privacy-Preserving Password Composition Policy Selection</title>
+      <link>/publication/2020/asiaccs/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020/asiaccs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

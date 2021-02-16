@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandra Mendes | PassCert Project</title>
+    <link>/author/alexandra-mendes/</link>
+      <atom:link href="/author/alexandra-mendes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandra Mendes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/alexandra-mendes/avatar_hu7d250773bb49debc9af890ac7f2337e4_270587_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Alexandra Mendes</title>
+      <link>/author/alexandra-mendes/</link>
+    </image>
+    
+    <item>
+      <title>Skeptic: Automatic, Justified and Privacy-Preserving Password Composition Policy Selection</title>
+      <link>/publication/2020/asiaccs/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020/asiaccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Accuracy of Password Strength Meters using Off-The-Shelf Guessing Attacks</title>
+      <link>/publication/2020/rsda/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020/rsda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

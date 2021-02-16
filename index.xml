@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PassCert Project</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>PassCert Project</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu350f1502138685215ce213cac6f53845_2708_512x512_fill_lanczos_center_2.png</url>
+      <title>PassCert Project</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Assistant / PhD Position available</title>
+      <link>/post/21-02-12-research-assistant/</link>
+      <pubDate>Sat, 13 Feb 2021 17:48:18 +0000</pubDate>
+      <guid>/post/21-02-12-research-assistant/</guid>
+      <description>&lt;p&gt;We have an open research assistant / Ph.D. student position in the PassCert project! The focus is on the application of formal methods to password security.
+The successful candidate will work from INESC-ID in beautiful Lisbon, Portugal and collaborate closely with the &lt;a href=&#34;/team&#34;&gt;PassCert team&lt;/a&gt;. &lt;strong&gt;We are open to discuss the possibility of remote working.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The deadline for application is &lt;strong&gt;12 March 2021&lt;/strong&gt;. &lt;a href=&#34;/post/21-02-12-research-assistant/&#34;&gt;More details&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;STARTING DATE:&lt;/strong&gt; March 2021&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DURATION:&lt;/strong&gt; 6 months, extendable (the funding is guaranteed for the first year)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LOCATION:&lt;/strong&gt; Lisbon, Portugal (possibly remote)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;QUALIFICATIONS:&lt;/strong&gt; Applicants must hold a Master&amp;rsquo;s degree in Computer Science and Engineering or related fields&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;APPLICATION DEADLINE: 12 March 2021&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The selected candidate will:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Contribute to the collection of functional and security requirements for the proof-of-concept password manager and to the identification of properties that will be formally verified.&lt;/li&gt;
+&lt;li&gt;Formally verify properties relevant to password managers (e.g. properties on generation of secure passwords and properties related to data location).&lt;/li&gt;
+&lt;li&gt;Contribute to the development of the proof-of-concept verified password manager.&lt;/li&gt;
+&lt;li&gt;Actively participate in and contribute to PassCert&amp;rsquo;s activities and regular meetings.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Full details, including applicable legislation and application procedures are all available in the public notice:
+&lt;a href=&#34;http://www.eracareers.pt/opportunities/index.aspx?task=global&amp;amp;jobId=131478&#34;&gt;http://www.eracareers.pt/opportunities/index.aspx?task=global&amp;amp;jobId=131478&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you have any questions, feel free to get in touch with &lt;a href=&#34;https://joaoff.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;João F. Ferreira&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;about-instituto-superior-técnico---university-of-lisbon--inesc-id&#34;&gt;About Instituto Superior Técnico - University of Lisbon / INESC-ID&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://tecnico.ulisboa.pt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto Superior Técnico&lt;/a&gt; (IST) is part of the University of Lisbon and is the leading school of engineering in Portugal and among the ARWU top-20 engineering schools in all of Europe. The school aims to contribute to the development of society, promoting excellence in higher education, in the fields of Architecture, Engineering, Science, and Technology by promoting Research, Development, and Innovation activities.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://inesc-id.pt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INESC-ID&lt;/a&gt; is an R&amp;amp;D institute dedicated to advanced research and development in the fields of Information Technologies, Electronics, Communications, and Energy, privately owned by IST and INESC. Working in close collaboration with faculty from IST, INESC-ID is the main research center for combined Computer Science and Engineering (CSE) and Electrical and Computer Engineering (ECE) in Portugal.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Practical recommendations for stronger, more usable passwords combining minimum-strength, minimum-length, and blocklist requirements</title>
+      <link>/publication/2020/ccs/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020/ccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skeptic: Automatic, Justified and Privacy-Preserving Password Composition Policy Selection</title>
+      <link>/publication/2020/asiaccs/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020/asiaccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Accuracy of Password Strength Meters using Off-The-Shelf Guessing Attacks</title>
+      <link>/publication/2020/rsda/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020/rsda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why people (don’t) use password managers effectively</title>
+      <link>/publication/2019/soups/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019/soups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PassCert﹕Exploring the Impact of Formal Verification on the Adoption of Password Security Software</title>
+      <link>/about/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../media/passcert-logo.png&#34; alt=&#34;PassCert Logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;With the explosive growth of our data economy, the quantity of personal data and other valuable assets available online has increased massively. At the same time, despite years of searching for viable alternatives, text passwords remain the dominant access control mechanism to access that data and those assets.&lt;/p&gt;
+&lt;p&gt;Users’ attitudes towards passwords can thus put at risk the security of our data economy. For example, users have shown that they tend to choose weak passwords that are easy to guess by password cracking software. Moreover, many users reuse the same password across different systems, which can have serious consequences for users and organizations affected by data breaches. In the last few years, breaches at organizations like Yahoo!,  Dropbox,  Lastpass,  LinkedIn,  and eBay have  exposed  over  a  billion  user passwords to  attackers.&lt;/p&gt;
+&lt;p&gt;To address this problem, security experts recommend the use of password managers (PMs) that combine secure password storage and retrieval with random password generation. These tools can improve account security by enabling the use of strong and unique passwords, simultaneously improving the usability and convenience of text password authentication. However, despite its critical importance, the adoption of PMs is still low. Reasons for this include distrust on the storage mechanisms and on the quality of generated passwords.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PassCert’s short-term vision is to build an open-source, proof-of-concept PM that through the use of formal verification, is guaranteed to satisfy properties on data storage and password generation. The goal is to help non-expert users to use stronger passwords without sacrificing convenience, whilst conveying the formal guarantees in an effective way. We aim to determine whether formal verification can increase users’ confidence in PMs and thus increase their adoption. The proof-of-concept PM will result from a close collaboration between researchers from &lt;a href=&#34;https://inesc-id.pt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INESC-ID Lisboa&lt;/a&gt;, &lt;a href=&#34;https://www.inesctec.pt/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INESC TEC&lt;/a&gt;, and &lt;a href=&#34;https://www.cylab.cmu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Carnegie Mellon CyLab Security and Privacy Institute&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contacts&#34;&gt;Contacts&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Principal Investigator in Portugal:&lt;/strong&gt; &lt;a href=&#34;https://joaoff.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;João F. Ferreira&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Principal Investigator at CMU:&lt;/strong&gt; &lt;a href=&#34;https://www.andrew.cmu.edu/user/nicolasc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nicolas Christin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/people&#34;&gt;&lt;strong&gt;Meet the Team&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participant institutions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://inesc-id.pt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INESC-ID: Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento em Lisboa (INESC-ID)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tecnico.ulisboa.pt/pt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto Superior Técnico, Universidade de Lisboa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.inesctec.pt/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INESC TEC: Instituto de Engenharia de Sistemas e Computadores, Tecnologia e Ciência&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scs.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;School of Computer Science, Carnegie Mellon University&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cylab.cmu.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CyLab: Carnegie Mellon University Security and Privacy Institute&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;p&gt;PassCert is a &lt;a href=&#34;https://www.cmuportugal.org/exploratory-research-projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMU Portugal Exploratory Research Project&lt;/a&gt; that is &lt;a href=&#34;https://www.fct.pt/apoios/projectos/consulta/vglobal_projecto?idProjecto=156718&amp;amp;idElemConcurso=14177&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;funded by the Fundação para a Ciência e a Tecnologia (FCT)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

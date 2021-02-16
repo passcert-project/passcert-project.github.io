@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Bacelar Almeida | PassCert Project</title>
+    <link>/author/jose-bacelar-almeida/</link>
+      <atom:link href="/author/jose-bacelar-almeida/index.xml" rel="self" type="application/rss+xml" />
+    <description>José Bacelar Almeida</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright>
+    <image>
+      <url>/author/jose-bacelar-almeida/avatar_hu00ceb48cc5cf15a9b98f2543c9820c69_3823_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>José Bacelar Almeida</title>
+      <link>/author/jose-bacelar-almeida/</link>
+    </image>
+    
+  </channel>
+</rss>
