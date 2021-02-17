@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael Prates | PassCert Project</title>
+    <link>/author/rafael-prates/</link>
+      <atom:link href="/author/rafael-prates/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rafael Prates</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright>
+    <image>
+      <url>/author/rafael-prates/avatar_huee8796acca6cbf589103d4ce144e3992_703007_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Rafael Prates</title>
+      <link>/author/rafael-prates/</link>
+    </image>
+    
+  </channel>
+</rss>
