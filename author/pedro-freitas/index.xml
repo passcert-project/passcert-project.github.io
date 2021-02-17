@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Freitas | PassCert Project</title>
+    <link>/author/pedro-freitas/</link>
+      <atom:link href="/author/pedro-freitas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro Freitas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright>
+    <image>
+      <url>/author/pedro-freitas/avatar_hu74d6881a46df06d59ac53711116518fb_23220_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pedro Freitas</title>
+      <link>/author/pedro-freitas/</link>
+    </image>
+    
+  </channel>
+</rss>
