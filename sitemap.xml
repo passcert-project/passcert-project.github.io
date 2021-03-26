@@ -1,100 +1,170 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2021-02-13T17:48:18+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/post/21-02-12-research-assistant/</loc>
     <lastmod>2021-02-13T17:48:18+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication-type/1/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/joshua-tan/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/lorrie-faith-cranor/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/lujo-bauer/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/nicolas-christin/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020/ccs/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/alexandra-mendes/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/joao-f.-ferreira/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/julien-cordry/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/saul-johnson/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020/asiaccs/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/david-pereira/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2020/rsda/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/sarah-pearman/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/shikun-aerin-zhang/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/publication/2019/soups/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/people/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/carolina-carreira/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/jose-bacelar-almeida/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/joao-campos/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/miguel-grilo/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/nicolas-christin/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/pedro-freitas/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/author/rafael-prates/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
+  
 </urlset>
