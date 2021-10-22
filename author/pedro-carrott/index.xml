@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Carrott | PassCert Project</title>
+    <link>/author/pedro-carrott/</link>
+      <atom:link href="/author/pedro-carrott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro Carrott</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright>
+    <image>
+      <url>/author/pedro-carrott/avatar_hu079156c75f8186717f83eebc0f1a611c_1180304_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pedro Carrott</title>
+      <link>/author/pedro-carrott/</link>
+    </image>
+    
+  </channel>
+</rss>

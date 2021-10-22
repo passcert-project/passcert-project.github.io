@@ -5,12 +5,28 @@
     <link>/author/nicolas-christin/</link>
       <atom:link href="/author/nicolas-christin/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicolas Christin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/nicolas-christin/avatar_hu808d50f631b61f4a46505c1ac67178b6_155342_270x270_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu350f1502138685215ce213cac6f53845_2708_512x512_fill_lanczos_center_2.png</url>
       <title>Nicolas Christin</title>
       <link>/author/nicolas-christin/</link>
     </image>
+    
+    <item>
+      <title>Practical recommendations for stronger, more usable passwords combining minimum-strength, minimum-length, and blocklist requirements</title>
+      <link>/publication/2020/ccs/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020/ccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why people (don’t) use password managers effectively</title>
+      <link>/publication/2019/soups/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019/soups/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
