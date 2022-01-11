@@ -5,12 +5,20 @@
     <link>/author/joao-campos/</link>
       <atom:link href="/author/joao-campos/index.xml" rel="self" type="application/rss+xml" />
     <description>João Campos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/joao-campos/avatar_hu25d333fcded103db2f52f7476cb1420a_2637291_270x270_fill_q75_lanczos_center.jpg</url>
       <title>João Campos</title>
       <link>/author/joao-campos/</link>
     </image>
+    
+    <item>
+      <title>SmartPasswords: Increasing Password Managers&#39; Usability by Generating Compliant Passwords</title>
+      <link>/publication/2021/joao-campos-thesis/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021/joao-campos-thesis/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
