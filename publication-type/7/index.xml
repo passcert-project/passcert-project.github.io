@@ -5,12 +5,36 @@
     <link>/publication-type/7/</link>
       <atom:link href="/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu350f1502138685215ce213cac6f53845_2708_512x512_fill_lanczos_center_3.png</url>
       <title>7</title>
       <link>/publication-type/7/</link>
     </image>
+    
+    <item>
+      <title>Persistence of Passwords in Bitwarden&#39;s Browser Extension: Unnecessary Retention and Solutions</title>
+      <link>/publication/2022/rafael-prates-thesis/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022/rafael-prates-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementação Certificada da Componente Criptográfica do Gestor de Passwords KeePass</title>
+      <link>/publication/2022/pedro-freitas-thesis/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022/pedro-freitas-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Verification of Password Generation Algorithms used in Password Managers</title>
+      <link>/publication/2021/miguel-grilo-thesis/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021/miguel-grilo-thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On Usable Security and Verified Password Managers</title>
