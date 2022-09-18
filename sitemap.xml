@@ -11,23 +11,62 @@
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/7/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2022-08-01T10:35:12+01:00</lastmod>
+  </url><url>
+    <loc>/author/alexandra-mendes/</loc>
+    <lastmod>2022-08-01T10:35:12+01:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
+    <lastmod>2022-08-01T10:35:12+01:00</lastmod>
+  </url><url>
+    <loc>/publication/2022/jlamp/</loc>
+    <lastmod>2022-08-01T10:35:12+01:00</lastmod>
+  </url><url>
+    <loc>/author/bill-stoddart/</loc>
+    <lastmod>2022-08-01T10:35:12+01:00</lastmod>
+  </url><url>
+    <loc>/author/campbell-ritchie/</loc>
+    <lastmod>2022-08-01T10:35:12+01:00</lastmod>
+  </url><url>
+    <loc>/author/frank-zeyda/</loc>
+    <lastmod>2022-08-01T10:35:12+01:00</lastmod>
+  </url><url>
+    <loc>/author/joao-f.-ferreira/</loc>
+    <lastmod>2022-08-01T10:35:12+01:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-08-01T10:35:12+01:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-08-01T10:35:12+01:00</lastmod>
+  </url><url>
+    <loc>/author/steve-dunne/</loc>
+    <lastmod>2022-08-01T10:35:12+01:00</lastmod>
+  </url><url>
+    <loc>/publication-type/7/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2022/rafael-prates-thesis/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/rafael-prates/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/jose-bacelar-almeida/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/joao-campos/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/miguel-grilo/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2022/ifm/</loc>
+    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2022/pedro-freitas-thesis/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
@@ -36,15 +75,15 @@
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/carolina-carreira/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2021/appfm/</loc>
+    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/nicholas-christin/</loc>
+    <lastmod>2021-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2021/miguel-grilo-thesis/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/joao-campos/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/miguel-grilo/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2021/carolina-carreira-thesis/</loc>
@@ -52,6 +91,15 @@
   </url><url>
     <loc>/publication/2021/joao-campos-thesis/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2021/iwor/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/rui-lima/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2021/inforum/</loc>
+    <lastmod>2021-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
     <lastmod>2021-09-09T17:48:18+00:00</lastmod>
@@ -61,9 +109,6 @@
   </url><url>
     <loc>/post/21-02-12-research-assistant/</loc>
     <lastmod>2021-02-13T17:48:18+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/joshua-tan/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
@@ -79,12 +124,6 @@
   </url><url>
     <loc>/publication/2020/ccs/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/alexandra-mendes/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/joao-f.-ferreira/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/julien-cordry/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>

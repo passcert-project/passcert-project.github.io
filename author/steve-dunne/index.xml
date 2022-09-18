@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Dunne | PassCert Project</title>
+    <link>/author/steve-dunne/</link>
+      <atom:link href="/author/steve-dunne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steve Dunne</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Mon, 01 Aug 2022 10:35:12 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu350f1502138685215ce213cac6f53845_2708_512x512_fill_lanczos_center_3.png</url>
+      <title>Steve Dunne</title>
+      <link>/author/steve-dunne/</link>
+    </image>
+    
+    <item>
+      <title>bGSL: An Imperative Language for Specification and Refinement of Backtracking Programs</title>
+      <link>/publication/2022/jlamp/</link>
+      <pubDate>Mon, 01 Aug 2022 10:35:12 +0100</pubDate>
+      <guid>/publication/2022/jlamp/</guid>
+      <description>&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/2022/JLAMP/WPE-report.pdf&#34;&gt;A wp Calculus for a Preferential Computations: Mechanisation in Isabelle/HOL (Technical report)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

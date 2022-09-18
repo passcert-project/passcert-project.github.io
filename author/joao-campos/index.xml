@@ -5,12 +5,20 @@
     <link>/author/joao-campos/</link>
       <atom:link href="/author/joao-campos/index.xml" rel="self" type="application/rss+xml" />
     <description>João Campos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/joao-campos/avatar_hu25d333fcded103db2f52f7476cb1420a_2637291_270x270_fill_q75_lanczos_center.jpg</url>
       <title>João Campos</title>
       <link>/author/joao-campos/</link>
     </image>
+    
+    <item>
+      <title>Verified password generation from password composition policies</title>
+      <link>/publication/2022/ifm/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022/ifm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SmartPasswords: Increasing Password Managers&#39; Usability by Generating Compliant Passwords</title>

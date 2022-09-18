@@ -28,6 +28,18 @@
     </item>
     
     <item>
+      <title>bGSL: An Imperative Language for Specification and Refinement of Backtracking Programs</title>
+      <link>/publication/2022/jlamp/</link>
+      <pubDate>Mon, 01 Aug 2022 10:35:12 +0100</pubDate>
+      <guid>/publication/2022/jlamp/</guid>
+      <description>&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/publication/2022/JLAMP/WPE-report.pdf&#34;&gt;A wp Calculus for a Preferential Computations: Mechanisation in Isabelle/HOL (Technical report)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Persistence of Passwords in Bitwarden&#39;s Browser Extension: Unnecessary Retention and Solutions</title>
       <link>/publication/2022/rafael-prates-thesis/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
@@ -36,10 +48,26 @@
     </item>
     
     <item>
+      <title>Verified password generation from password composition policies</title>
+      <link>/publication/2022/ifm/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022/ifm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Implementação Certificada da Componente Criptográfica do Gestor de Passwords KeePass</title>
       <link>/publication/2022/pedro-freitas-thesis/</link>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/publication/2022/pedro-freitas-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Usable Security to Improve the Impact of Formal Verification: A Research Agenda</title>
+      <link>/publication/2021/appfm/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021/appfm/</guid>
       <description></description>
     </item>
     
@@ -64,6 +92,22 @@
       <link>/publication/2021/joao-campos-thesis/</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/publication/2021/joao-campos-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Repair of Java Code with Timing Side-Channel Vulnerabilities</title>
+      <link>/publication/2021/iwor/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021/iwor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Improving the Usability of Password Managers</title>
+      <link>/publication/2021/inforum/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021/inforum/</guid>
       <description></description>
     </item>
     

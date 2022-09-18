@@ -5,12 +5,20 @@
     <link>/author/miguel-grilo/</link>
       <atom:link href="/author/miguel-grilo/index.xml" rel="self" type="application/rss+xml" />
     <description>Miguel Grilo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/miguel-grilo/avatar_hud187187d9720911781cb18a34896cb1b_47519_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Miguel Grilo</title>
       <link>/author/miguel-grilo/</link>
     </image>
+    
+    <item>
+      <title>Verified password generation from password composition policies</title>
+      <link>/publication/2022/ifm/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022/ifm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Formal Verification of Password Generation Algorithms used in Password Managers</title>
