@@ -48,6 +48,31 @@
     </item>
     
     <item>
+      <title>PassCert presentations at iFM 2022</title>
+      <link>/post/22-06-07-ifm-lugano/</link>
+      <pubDate>Tue, 07 Jun 2022 17:48:18 +0000</pubDate>
+      <guid>/post/22-06-07-ifm-lugano/</guid>
+      <description>&lt;p&gt;Members of the PassCert research team attended &lt;a href=&#34;https://ifm22.si.usi.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iFM 2022&lt;/a&gt;, the 17th International Conference on integrated Formal Methods.&lt;/p&gt;
+&lt;p&gt;The two papers presented were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/publication/2022/ifm-phd&#34;&gt;&lt;em&gt;Studying Users&#39; Willingness to Use a Formally Verified Password Manager&lt;/em&gt;&lt;/a&gt;, Carolina Carreira (presented at the PhD Symposium)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/publication/2022/ifm&#34;&gt;&lt;em&gt;Verified Password Generation from Password Composition Policies&lt;/em&gt;&lt;/a&gt;, Miguel Grilo, João Campos, João F. Ferreira, José Bacelar Almeida and Alexandra Mendes&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Studying Users&#39; Willingness to Use a Formally Verified Password Manager</title>
+      <link>/publication/2022/ifm-phd/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022/ifm-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Verified password generation from password composition policies</title>
       <link>/publication/2022/ifm/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>

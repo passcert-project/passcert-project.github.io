@@ -5,12 +5,20 @@
     <link>/author/carolina-carreira/</link>
       <atom:link href="/author/carolina-carreira/index.xml" rel="self" type="application/rss+xml" />
     <description>Carolina Carreira</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© PassCert Project</copyright><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/carolina-carreira/avatar_hufe02e705cce588b37d7d3c366de1d223_200867_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Carolina Carreira</title>
       <link>/author/carolina-carreira/</link>
     </image>
+    
+    <item>
+      <title>Studying Users&#39; Willingness to Use a Formally Verified Password Manager</title>
+      <link>/publication/2022/ifm-phd/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022/ifm-phd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring Usable Security to Improve the Impact of Formal Verification: A Research Agenda</title>
