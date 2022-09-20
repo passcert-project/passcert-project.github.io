@@ -33,6 +33,30 @@
     </item>
     
     <item>
+      <title>SmartPasswords extension accepted by Bitwarden team</title>
+      <link>/post/21-11-25-smartpasswords-bw/</link>
+      <pubDate>Thu, 25 Nov 2021 17:48:18 +0000</pubDate>
+      <guid>/post/21-11-25-smartpasswords-bw/</guid>
+      <description>&lt;p&gt;Our SmartPasswords extension was &lt;a href=&#34;https://github.com/bitwarden/clients/pull/2047&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accepted by the Bitwarden team&lt;/a&gt;!
+The feature will be merged into the product after a process of code review, benefitting millions of users.&lt;/p&gt;
+&lt;p&gt;The new feature Smart Passwords, developed in the context of &lt;a href=&#34;/publication/2021/joao-campos-thesis/&#34;&gt;João Campos&amp;rsquo;s MSc thesis&lt;/a&gt;, reads the field &lt;code&gt;passwordrules&lt;/code&gt; in an input form. This field contains the password policies specified by the website, making it easier for the generator to generate compliant passwords.&lt;/p&gt;
+&lt;p&gt;To specify the policy annotations (i.e., password rules), the extension uses a &lt;a href=&#34;https://developer.apple.com/documentation/security/password_autofill/customizing_password_autofill_rules&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;language developed by Apple&lt;/a&gt;.
+It also uses a new npm package developed by our team, based on Apple&amp;rsquo;s own parser and adapted to Typescript (&lt;a href=&#34;https://github.com/passcert-project/pwrules-annotations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@passcert/pwrules-annotations&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;For example, the specification&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;passwordrules=&amp;quot;required: upper; required: lower; required:digit; required: special; minlength: 10;&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;specifies a password that must have at least 10 characters, and at least one lowercase letter, one uppercase letter, one digit, and one symbol. Since all character classes are required, the checkboxes are disabled and the minimum number of digits and symbols is also disabled because changing these values would generate a password that would be uncompliant. The minimum length of the password is also capped at 10.&lt;/p&gt;
+&lt;h2 id=&#34;related-publications&#34;&gt;Related publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/publication/2022/ifm&#34;&gt;&lt;em&gt;Verified Password Generation from Password Composition Policies&lt;/em&gt;&lt;/a&gt;, Miguel Grilo, João Campos, João F. Ferreira, José Bacelar Almeida and Alexandra Mendes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;/publication/2021/joao-campos-thesis/&#34;&gt;&lt;em&gt;SmartPasswords: Increasing Password Managers&#39; Usability by Generating Compliant Passwords&lt;/em&gt;&lt;/a&gt;, João Campos&amp;rsquo;s MSc thesis&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Exploring Usable Security to Improve the Impact of Formal Verification: A Research Agenda</title>
       <link>/publication/2021/appfm/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
